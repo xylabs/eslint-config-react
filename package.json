@@ -31,6 +31,7 @@
   "sideEffects": false,
   "scripts": {
     "deploy": "yarn version --patch && yarn publish ./",
+    "lint": "eslint --ext .js ./",
     "reinstall": "rm -r -f ./node_modules && rm -f ./yarn.lock && rm -f ./yarn-error.log && yarn install"
   },
   "dependencies": {
@@ -38,5 +39,8 @@
     "eslint": "^7.29.0",
     "eslint-plugin-react": "^7.20.6",
     "eslint-plugin-react-hooks": "^4.0.4"
+  },
+  "devDependencies": {
+    "react": "^17.0.2"
   }
 }
