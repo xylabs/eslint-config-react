@@ -190,10 +190,10 @@
     "@typescript-eslint/types" "5.3.0"
     eslint-visitor-keys "^3.0.0"
 
-"@xylabs/eslint-config@^2.0.26":
-  version "2.0.26"
-  resolved "https://registry.yarnpkg.com/@xylabs/eslint-config/-/eslint-config-2.0.26.tgz#cc7ae28680a9322bc055ea03b52ee6dae46b2445"
-  integrity sha512-wZhC72T1+GxmiUnTFro4KjQhxNQNT8KfTiRipoEnpc0jwjpcw/whxTWMXsQecLW8GhrNW+gZqEf+mZEouZ5z4Q==
+"@xylabs/eslint-config@^2.0.27":
+  version "2.0.27"
+  resolved "https://registry.yarnpkg.com/@xylabs/eslint-config/-/eslint-config-2.0.27.tgz#a9b89adc366139dc351c126db33a3b4259a4bfaf"
+  integrity sha512-sdGq7asTqU8p2AmBiZibBOROQryC+Q59sL1Ne8Wws4NANcx4gtR0u59tfauAgYkBsf+b73OKtwLfZsyN8pPf/Q==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^5.3.0"
     "@typescript-eslint/parser" "^5.3.0"
