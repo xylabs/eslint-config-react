@@ -1,14 +1,14 @@
-[![logo][]](https://xyo.network)
+[![logo][]](https://xylabs.com)
 
-# eslint-config
+# eslint-config-react
 
 [![npm-badge][]][npm-link]
 
-> The ESLint configurations that are used across XY Labs Repos, inluding @xylabs, @xyo-network, and a few other scopes.
+> The ESLint React configurations that are used across XY Labs React Repos, including @xylabs, @xyo-network, and a few other scopes.
 
 ## Table of Contents
 
--   [Title](#eslint-config)
+-   [Title](#eslint-config-react)
 -   [Description](#description)
 -   [Maintainers](#maintainers)
 -   [License](#license)
@@ -16,11 +16,11 @@
 
 ## Description
 
-eslint-config for XY Labs Javascript Libraries and React Projects.
+eslint-config-react for XY Labs React Projects.
 
 ## Maintainers
 
--   Arie Trouw
+-   [Arie Trouw](https://arietrouw.com) ([Github](https://github.com/arietrouw))
 
 ## License
 
@@ -28,7 +28,7 @@ See the [LICENSE](LICENSE) file for license details
 
 ## Credits
 
-Made with 🔥and ❄️ by [XYO](https://xyo.network)
+[Made with 🔥 and ❄️ by XY Labs](https://xylabs.com)
 
 [logo]: https://cdn.xy.company/img/brand/XYPersistentCompany_Logo_Icon_Colored.svg
 
