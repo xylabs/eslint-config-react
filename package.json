@@ -27,7 +27,7 @@
     "eslint"
   ],
   "version": "2.0.18",
-  "main": "./index.js",
+  "main": "./index.json",
   "sideEffects": false,
   "scripts": {
     "deploy": "yarn version --patch && yarn publish ./",

@@ -1,0 +1,6 @@
+{
+  "extends": ["@xylabs", "./react.js"],
+  "ignorePatterns": [
+    "public"
+  ]
+}
