@@ -244,6 +244,11 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@rushstack/eslint-patch@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.1.0.tgz#7f698254aadf921e48dda8c0a6b304026b8a9323"
+  integrity sha512-JLo+Y592QzIE+q7Dl2pMUtt4q8SKYI5jDrZxrozEQxnGVOyYE+GWK9eLkwTaeN9DDctlaRAQ3TBmzZ1qdLE30A==
+
 "@types/estree-jsx@^0.0.1":
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/@types/estree-jsx/-/estree-jsx-0.0.1.tgz#c36d7a1afeb47a95a8ee0b7bc8bc705db38f919d"
@@ -358,13 +363,14 @@
     "@typescript-eslint/types" "5.9.0"
     eslint-visitor-keys "^3.0.0"
 
-"@xylabs/eslint-config@^2.2.7":
-  version "2.2.7"
-  resolved "https://registry.yarnpkg.com/@xylabs/eslint-config/-/eslint-config-2.2.7.tgz#79f9d606ef8a6ed9e1c5d1f4cce0ad9ee3cd4637"
-  integrity sha512-OUAGuc2Y0XwtdzK5oTcUMFnCXn0ij4+MBtP5bw0uOLsucFUgF44li92/L/cUeGG+hxQK9e9rRrvO6j650CRXPg==
+"@xylabs/eslint-config@^2.2.8":
+  version "2.2.8"
+  resolved "https://registry.yarnpkg.com/@xylabs/eslint-config/-/eslint-config-2.2.8.tgz#a7ac1c2bce1ed1e649432c5f5e951db9f4b2feae"
+  integrity sha512-Tf3+gS+sJgJZlJyMy+PIwf6Z3Edf7CgTWl0I+AxFWzPF+FvfC++uZNwE9/Hzfj9/NvkvvMFUFsI1HJtV386iiQ==
   dependencies:
     "@babel/core" "^7.16.7"
     "@babel/eslint-parser" "^7.16.5"
+    "@rushstack/eslint-patch" "^1.1.0"
     "@typescript-eslint/eslint-plugin" "^5.9.0"
     "@typescript-eslint/parser" "^5.9.0"
     eslint "^8"
