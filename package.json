@@ -26,7 +26,7 @@
     "typescript",
     "eslint"
   ],
-  "version": "2.1.1",
+  "version": "2.1.2",
   "main": "./dist/index.js",
   "sideEffects": false,
   "scripts": {
@@ -44,9 +44,9 @@
     "@rushstack/eslint-patch": "^1.1.0",
     "@xylabs/eslint-config": "^2",
     "eslint": "^8",
+    "eslint-config-react-app": "^7.0.0",
     "eslint-plugin-react": "^7.28.0",
-    "eslint-plugin-react-hooks": "^4.3.0",
-    "eslint-config-react-app": "^7.0.0"
+    "eslint-plugin-react-hooks": "^4.3.0"
   },
   "peerDependencies": {
     "react": "^17"
