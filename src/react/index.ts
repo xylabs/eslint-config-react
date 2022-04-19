@@ -2,6 +2,7 @@ export = {
   extends: ['plugin:react/recommended', 'plugin:react-hooks/recommended'],
   plugins: ['react', 'react-hooks'],
   rules: {
+    'import/no-nodejs-modules': ['error'],
     'react-hooks/exhaustive-deps': [
       'warn',
       {
