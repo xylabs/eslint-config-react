@@ -1,6 +1,4 @@
-// eslint-disable-next-line import/no-internal-modules
-import '@rushstack/eslint-patch/modern-module-resolution'
-
+// eslint-disable-next-line import/no-nodejs-modules
 import { cwd } from 'process'
 
 export = {
