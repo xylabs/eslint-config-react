@@ -2619,7 +2619,7 @@ __metadata:
     "@types/node": ^18.0.0
     "@xylabs/eslint-config": ^2.3.28
     "@xylabs/ts-scripts": ^1.0.66
-    "@xylabs/tsconfig": ^1.0.14
+    "@xylabs/tsconfig": ^2.14.1
     eslint: ^8.18.0
     eslint-config-react-app: ^7.0.1
     eslint-plugin-react: ^7.30.0
@@ -2752,12 +2752,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@xylabs/tsconfig@npm:^1.0.14":
-  version: 1.0.14
-  resolution: "@xylabs/tsconfig@npm:1.0.14"
-  dependencies:
-    tslib: ^2.4.0
-  checksum: 33732db9e1e175a55e56e1c34598583e33f3afd5a73538bb674dfd7f3b7d524a394b6e674c6cb0a06df9d62ddd9b94e93480d3de32bea3cfb85c82307f8343e7
+"@xylabs/tsconfig@npm:^2.14.1":
+  version: 2.14.1
+  resolution: "@xylabs/tsconfig@npm:2.14.1"
+  checksum: fcb1c90a9582136d87e5096dc1e40492bbaae419a915a510b7bf7486c0cc36125a5e754d986a7f6febf3d8ab0c5cbaae080003706eab710836053039caf5d765
   languageName: node
   linkType: hard
 
